@@ -10,6 +10,7 @@ body {
   font-size: 16px;
   line-height: 1.6;
   color: #333;
+  overflow-x: hidden;
 }
 .kilanzi {
   color:rgb(149, 80, 161) !important;
